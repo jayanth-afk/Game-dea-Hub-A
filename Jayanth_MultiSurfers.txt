@@ -1,0 +1,49 @@
+# Game Title
+MULTI SURFERS
+
+
+## Concept
+3/4 Subway Surfers players start playing together online sometimes comepeting and deploying obstacles 
+to hinder your competitors in 1 mode and collaboratingto make highscores together and swarm the
+leaderboards.
+
+
+## Gameplay
+The player's objective in competative mode is make their competitors lose early by running faster and
+deploying obstacles to hinder their path once the runner defeats the 2 other online runners he is given
+a lot of extra score and other runners who are in the similar state as in (i.e. defeated 2 players) are
+added to run with him. In Collaborative mode the 3 players run together to make high scores by helping 
+eachother,if 1 falls/caught then if the other 2 manage to run enough to obtain the key he is released
+again.The same if only 1 runner remains he holds the responsibility to free the other 2 runners if he 
+falls aswell then the game ends.
+
+
+## Unique Features
+It is kind of like the already immensely popular game Subway Surfers but is more fun, entertaining and
+has an exciting multiplayer modes available , in 1 they compete to find the best player among them
+to top the leaderboards and in other they help collaborate as team to win together and reach the skys
+of the leaderboards together.
+
+
+## Target Audience
+Anyone above the age of 3 can play it both the single player and multiplayer modes and it is targeting
+friends to play together in their mean times, Any age groups of people enjoying playing together with 
+people around the world to either socialise or make new friends or play with existing friends making
+their bond stronger.
+
+
+## Art Style & Theme
+Almost Same as Subway Surfers and theme of different cities as maps encouraging players to play
+at different country themes being fun and colourful showing their cultures while all having the same
+leaderboards so that people can explore without worrying abt their ranking either in global/local frnds
+FB rankings.
+
+
+## Inspiration
+I have always found the need of multiplayerin Subway Surfers.It has inspired this project
+
+
+## Tools or Platforms (Optional)
+I imagine this to be build for Windows,Mac, mobile devices and any other devices ,Using unreal engine
+ having a very smooth gameplay, web version of this game will also be available, allowing crossplay 
+ between all the platforms. People using any device can join this exciting world of Multi Surfers.
